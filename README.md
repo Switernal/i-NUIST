@@ -4,7 +4,9 @@
 
 ## iOS 15.0+ / iPadOS 15.0+ / macOS 12.0+ 快捷指令
 
-使用 iPhone/iPad/iPod Touch/安装有 macOS 12.0+ 的 Mac 点击下方链接即可添加，需先安装”快捷指令“
+注：由于该快捷指令在 iOS 15 系统创建，iOS 14 或更低系统版本无法安装
+
+使用安装有 iOS 15.0+ 的 iPhone/iPod Touch/iPadOS 15.0+ 的 iPad/macOS 12.0+ 的 Mac 点击下方链接即可添加，需先安装”快捷指令“
 
 https://www.icloud.com/shortcuts/bf0fdad30e714a319b8836b6f7e64733
 
