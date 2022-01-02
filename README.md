@@ -2,7 +2,7 @@
 
 南京信息工程大学 i-NUIST 校园网一键登录脚本
 
-## iOS 12.0+ / iPadOS 13.0+ / macOS 12.0+ 快捷指令
+## iOS 15.0+ / iPadOS 15.0+ / macOS 12.0+ 快捷指令
 
 使用 iPhone/iPad/iPod Touch/安装有 macOS 12.0+ 的 Mac 点击下方链接即可添加，需先安装”快捷指令“
 
