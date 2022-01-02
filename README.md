@@ -2,7 +2,7 @@
 
 南京信息工程大学 i-NUIST 校园网一键登录脚本
 
-## iOS / iPadOS / macOS 12.0+ 快捷指令
+## iOS 12.0+ / iPadOS 13.0+ / macOS 12.0+ 快捷指令
 
 https://www.icloud.com/shortcuts/62b4201079da4608923bb86a14821908
 
