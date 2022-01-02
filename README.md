@@ -22,7 +22,7 @@ Shell脚本（使用git bash）：./Windows/iNUIST-win.sh
 
 Shell脚本（终端运行）：./Mac/iNUIST.sh
 
-可执行文件（双击运行）：./Mac/iNUIST
+可执行文件（双击运行）：./Mac/iNUIST（第一次运行会要求输入系统开机密码，仅用作获取目录读写权限，否则无法保存配置文件，不会盗取密码）
 
 # 使用说明
 
