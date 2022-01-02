@@ -4,7 +4,7 @@
 
 ## iOS 12.0+ / iPadOS 13.0+ / macOS 12.0+ 快捷指令
 
-https://www.icloud.com/shortcuts/62b4201079da4608923bb86a14821908
+https://www.icloud.com/shortcuts/40c51052d40344eab623730f23694ca1
 
 ## Windows
 
