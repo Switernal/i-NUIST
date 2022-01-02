@@ -1,4 +1,4 @@
-# 南京信息工程大学 i-NUIST 校园网一键登录脚本（Windows版本）
+# 南京信息工程大学 i-NUIST 校园网一键登录脚本（Windows版本） 
 # 作者：Switernal
 # 联系方式：switernal@outlook.com
 # 使用方式：替换掉个人信息，使用Powershell执行即可
