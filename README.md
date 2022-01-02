@@ -4,7 +4,7 @@
 
 ## iOS 12.0+ / iPadOS 13.0+ / macOS 12.0+ 快捷指令
 
-使用 iPhone/iPad/iPod Touch 点击下方链接即可添加，需先安装”快捷指令“
+使用 iPhone/iPad/iPod Touch/安装有 macOS 12.0+ 的 Mac 点击下方链接即可添加，需先安装”快捷指令“
 
 https://www.icloud.com/shortcuts/bf0fdad30e714a319b8836b6f7e64733
 
