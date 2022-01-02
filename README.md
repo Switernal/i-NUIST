@@ -8,7 +8,7 @@ https://www.icloud.com/shortcuts/62b4201079da4608923bb86a14821908
 
 ## Windows
 
-Shell脚本（Powershell中运行）：./Windows/iNUIST-win.sh
+Shell脚本（使用git bash）：./Windows/iNUIST-win.sh
 
 可执行文件（双击运行）：稍后上传
 
@@ -20,8 +20,9 @@ Shell脚本（终端运行）：./Mac/iNUIST.sh
 
 # 使用说明
 
- 1. Shell脚本中使用了第三方库jq用于解析返回结果的json，运行前请先安装jq。Mac用户可以使用brew进行安装（需先安装brew）：`brew install jq`。其它安装方式：https://github.com/stedolan/jq
- 2. 终端/Powershell脚本运行方式：`sh iNUIST.sh`
- 3. 一键登录脚本中的请求内容均为抓包所得，不存在破解等非法操作。
- 4. 一键登录脚本在测试时可以使用，但不保证在其他设备上正常运行
- 5. 请在遵守法律的前提下使用一键登录脚本
+ 1. Windows用户需要先安装git，使用`git bash`，在bash环境中运行脚本。
+ 2. Shell脚本中使用了第三方库jq用于解析返回结果的json，运行前请先安装jq。Mac用户可以使用brew进行安装（需先安装brew）：`brew install jq`。其它安装方式：https://github.com/stedolan/jq
+ 3. Shell脚本运行方式：`sh iNUIST.sh`
+ 4. 一键登录脚本中的请求内容均为抓包所得，不存在破解等非法操作。
+ 5. 一键登录脚本在测试时可以使用，但不保证在其他设备上正常运行。
+ 6. 请在遵守法律的前提下使用一键登录脚本。
