@@ -14,15 +14,15 @@ https://www.icloud.com/shortcuts/bf0fdad30e714a319b8836b6f7e64733
 
 ## Windows
 
-Shell脚本（使用git bash）：./Windows/iNUIST-win.sh
+Shell脚本（配合git bash使用）：[Windows/iNUIST-win.sh](https://github.com/Switernal/i-NUIST/blob/main/Windows/iNUIST-win.sh)
 
-可执行文件（双击运行）：稍后上传
+可执行文件（双击运行）：[Windows/i-NUIST一键登录_windows.exe](https://github.com/Switernal/i-NUIST/blob/main/Windows/i-NUIST一键登录_windows.exe)
 
 ## Mac
 
-Shell脚本（终端运行）：./Mac/iNUIST.sh
+Shell脚本（终端运行）：[Mac/iNUIST.sh](https://github.com/Switernal/i-NUIST/blob/main/Mac/iNUIST.sh)
 
-可执行文件（双击运行）：./Mac/iNUIST（第一次运行会要求输入系统开机密码，仅用作获取目录读写权限，否则无法保存配置文件，不会盗取密码）
+可执行文件（双击运行）：[Mac/i-NUIST一键登录[双击运行]_macos](https://github.com/Switernal/i-NUIST/blob/main/Mac/i-NUIST一键登录%5B双击运行%5D_macos)（第一次运行会要求输入系统开机密码，仅用作获取目录读写权限，否则无法保存配置文件，不会盗取密码）
 
 # 使用说明
 
