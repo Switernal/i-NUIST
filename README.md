@@ -24,6 +24,10 @@ Shell脚本（终端运行）：[Mac/iNUIST.sh](https://github.com/Switernal/i-N
 
 可执行文件（双击运行）：[Mac/i-NUIST一键登录[双击运行]_macos](https://github.com/Switernal/i-NUIST/blob/main/Mac/i-NUIST一键登录%5B双击运行%5D_macos)（第一次运行会要求输入系统开机密码，仅用作获取目录读写权限，否则无法保存配置文件，不会盗取密码）
 
+## Linux
+
+Shell脚本：[Mac/iNUIST.sh](https://github.com/Switernal/i-NUIST/blob/main/Mac/iNUIST.sh)
+
 # 使用说明
 
  1. Windows用户需要先安装git，使用`git bash`，在bash环境中运行脚本。
