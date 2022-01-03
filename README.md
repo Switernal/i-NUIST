@@ -18,17 +18,23 @@ https://www.icloud.com/shortcuts/fd519966ddd5439cadf7fe1ffd42d5f5
 
 Shell脚本（配合git bash使用）：[Windows/iNUIST-win.sh](https://github.com/Switernal/i-NUIST/blob/main/Windows/iNUIST-win.sh)
 
+Shell脚本（无需jq）：[i-NUIST一键登录_无jq版本.sh](https://github.com/Switernal/i-NUIST/blob/main/i-NUIST一键登录_无jq版本.sh)
+
 可执行文件（双击运行）：[Windows/i-NUIST一键登录_windows.exe](https://github.com/Switernal/i-NUIST/blob/main/Windows/i-NUIST一键登录_windows.exe)
 
 ## Mac
 
 Shell脚本（终端运行）：[Mac/iNUIST.sh](https://github.com/Switernal/i-NUIST/blob/main/Mac/iNUIST.sh)
 
+Shell脚本（无需jq）：[i-NUIST一键登录_无jq版本.sh](https://github.com/Switernal/i-NUIST/blob/main/i-NUIST一键登录_无jq版本.sh)
+
 可执行文件（双击运行）：[Mac/i-NUIST一键登录[双击运行]_macos](https://github.com/Switernal/i-NUIST/blob/main/Mac/i-NUIST一键登录%5B双击运行%5D_macos)（第一次运行会要求输入系统开机密码，仅用作获取目录读写权限，否则无法保存配置文件，不会盗取密码）
 
 ## Linux
 
 Shell脚本：[Mac/iNUIST.sh](https://github.com/Switernal/i-NUIST/blob/main/Mac/iNUIST.sh)
+
+Shell脚本（无需jq）：[i-NUIST一键登录_无jq版本.sh](https://github.com/Switernal/i-NUIST/blob/main/i-NUIST一键登录_无jq版本.sh)
 
 # 使用说明
 
@@ -37,6 +43,7 @@ Shell脚本：[Mac/iNUIST.sh](https://github.com/Switernal/i-NUIST/blob/main/Mac
  1. Windows用户需要先安装git，使用`git bash`，在bash环境中运行脚本。
  2. Shell脚本中使用了第三方库jq用于解析返回结果的json，运行前请先安装jq。Mac用户可以使用brew进行安装（需先安装brew）：`brew install jq`。其它安装方式：https://github.com/stedolan/jq
  3. Shell脚本运行方式：`sh iNUIST.sh`
+ 4. 使用"i-NUIST一键登录_无jq版本.sh"无需安装jq即可直接使用，返回结果是一串原始json
  
 ## 可执行程序 
 
