@@ -10,7 +10,7 @@
 
 使用安装有 iOS 15.0+ 的 iPhone/iPod Touch/iPadOS 15.0+ 的 iPad/macOS 12.0+ 的 Mac 点击下方链接即可添加，需先安装”快捷指令“
 
-https://www.icloud.com/shortcuts/244d10607a0e40c7bb913445ad97a338
+https://www.icloud.com/shortcuts/fd519966ddd5439cadf7fe1ffd42d5f5
 
 配合自动化或是桌面小组件更为方便。
 
