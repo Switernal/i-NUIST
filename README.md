@@ -8,7 +8,7 @@
 
 注：由于该快捷指令在 iOS 15 系统创建，iOS 14 或更低系统版本无法安装
 
-使用安装有 iOS 15.0+ 的 iPhone/iPod Touch/iPadOS 15.0+ 的 iPad/macOS 12.0+ 的 Mac 点击下方链接即可添加，需先安装”快捷指令“
+使用安装有 iOS 15.0+ 的 iPhone、iPod Touch，iPadOS 15.0+ 的 iPad 或 macOS 12.0+ 的 Mac 点击下方链接即可添加，需先安装”快捷指令“
 
 https://www.icloud.com/shortcuts/f6ec2b6d91a34e8a87c556824c278e23
 
