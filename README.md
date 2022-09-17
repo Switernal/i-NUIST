@@ -4,11 +4,15 @@
 
 2021年7月份校园网升级后，原登录接口失效，新的一键登录脚本基于新的登录接口编写。
 
-## iOS 15.0+ / iPadOS 15.0+ / macOS 12.0+ 快捷指令
+## iOS 16.0+ / iPadOS 16.0+ / macOS 12.0+ 快捷指令
 
-注：由于该快捷指令在 iOS 15 系统创建，iOS 14 或更低系统版本无法安装
+注：由于该快捷指令在 iOS 16 系统创建，iOS 15 或更低系统版本无法安装
 
-使用安装有 iOS 15.0+ 的 iPhone、iPod Touch，iPadOS 15.0+ 的 iPad 或 macOS 12.0+ 的 Mac 点击下方链接即可添加，需先安装”快捷指令“
+使用安装有 iOS 16.0+ 的 iPhone、iPod Touch，iPadOS 16.0+ 的 iPad 或 macOS 12.0+ 的 Mac 点击下方链接即可添加，需先安装”快捷指令“
+
+https://www.icloud.com/shortcuts/883f9575be074e849d0770e5873c5a79
+
+如果您仍在使用 iOS 15，请使用以下链接：
 
 https://www.icloud.com/shortcuts/f6ec2b6d91a34e8a87c556824c278e23
 
