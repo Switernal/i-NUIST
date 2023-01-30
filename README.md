@@ -27,6 +27,8 @@ https://www.icloud.com/shortcuts/f6ec2b6d91a34e8a87c556824c278e23
 
 ## Windows
 
+Python脚本：[iNUIST.py](https://github.com/Switernal/i-NUIST/blob/main/iNUIST.py)
+
 Shell脚本（配合git bash使用）：[Windows/iNUIST-win.sh](https://github.com/Switernal/i-NUIST/blob/main/Windows/iNUIST-win.sh)
 
 Shell脚本（无需jq）：[i-NUIST一键登录_无jq版本.sh](https://github.com/Switernal/i-NUIST/blob/main/i-NUIST一键登录_无jq版本.sh)
@@ -35,6 +37,8 @@ Shell脚本（无需jq）：[i-NUIST一键登录_无jq版本.sh](https://github.
 
 ## Mac
 
+Python脚本：[iNUIST.py](https://github.com/Switernal/i-NUIST/blob/main/iNUIST.py)
+
 Shell脚本（终端运行）：[Mac/iNUIST.sh](https://github.com/Switernal/i-NUIST/blob/main/Mac/iNUIST.sh)
 
 Shell脚本（无需jq）：[i-NUIST一键登录_无jq版本.sh](https://github.com/Switernal/i-NUIST/blob/main/i-NUIST一键登录_无jq版本.sh)
@@ -42,6 +46,8 @@ Shell脚本（无需jq）：[i-NUIST一键登录_无jq版本.sh](https://github.
 可执行文件（双击运行）：[Mac/i-NUIST一键登录[双击运行]_macos](https://github.com/Switernal/i-NUIST/blob/main/Mac/i-NUIST一键登录%5B双击运行%5D_macos)（第一次运行会要求输入系统开机密码，仅用作获取目录读写权限，否则无法保存配置文件，不会盗取密码）
 
 ## Linux
+
+Python脚本：[iNUIST.py](https://github.com/Switernal/i-NUIST/blob/main/iNUIST.py)
 
 Shell脚本：[Mac/iNUIST.sh](https://github.com/Switernal/i-NUIST/blob/main/Mac/iNUIST.sh)
 
