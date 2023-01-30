@@ -25,7 +25,7 @@ def iNUIST_login():
         os.system('chmod 755 %s' % (sys.argv[0]))
 
     # url
-    url = 'http://10.255.255.46/api/v1'
+    url = 'http://a.nuist.edu.cn/api/v1'
     ipUrl = url + '/ip'
     loginUrl = url + '/login'
     logoutUrl = url + '/logout'
@@ -84,12 +84,12 @@ def iNUIST_login():
 
     # 设置login的请求头
     headers = {
-        "Host": "10.255.255.46",
+        "Host": "a.nuist.edu.cn",
         "Accept": "application/json, text/plain, */*",
         "User-Agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",
         "Content-Type": "application/json;charset=UTF-8",
-        "Origin": "http://10.255.255.46",
-        "Referer": "http://10.255.255.46/authentication/login",
+        "Origin": "http://a.nuist.edu.cn",
+        "Referer": "http://a.nuist.edu.cn/authentication/login",
         "Accept-Encoding": "gzip, deflate",
         "Accept-Language": "zh-CN,zh;q=0.9",
         # "Content-Length": "128",
