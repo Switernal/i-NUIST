@@ -51,10 +51,14 @@ Shell脚本（无需jq）：[i-NUIST一键登录_无jq版本.sh](https://github.
 
 ## Shell脚本
 
- 1. Windows用户需要先安装git，使用`git bash`，在bash环境中运行脚本。
+ 1. Windows 用户需要先安装git，使用`git bash`，在 bash 环境中运行脚本。
  2. Shell脚本中使用了第三方库jq用于解析返回结果的json，运行前请先安装jq。Mac用户可以使用brew进行安装（需先安装brew）：`brew install jq`。其它安装方式：https://github.com/stedolan/jq
  3. Shell脚本运行方式：`sh iNUIST.sh`
  4. 使用"i-NUIST一键登录_无jq版本.sh"无需安装jq即可直接使用，返回结果是一串原始json
+
+## Python脚本
+
+ Python 脚本兼容多平台，直接运行`i-NUIST.py`即可。需要先安装 Python3 环境和依赖。
  
 ## 可执行文件 
 
